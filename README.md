@@ -16,13 +16,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My Blog, Github Project
 
-- 🌱 I’m currently learning  
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
-
-- 💬 Talk to me about Talk to me about JavaScript, React, Node, MongoDB, Data Structures and Algorithms
+- 💬Talk to me about JavaScript, React, Node, Data Structures and Algorithms
 
 
 
